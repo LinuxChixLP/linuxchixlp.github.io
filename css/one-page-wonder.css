@@ -32,16 +32,17 @@ header.masthead>.overlay {
 }
 
 
-header.masthead>.overlay>.conteiner>.h5 {
+header.masthead>.overlay>.conteiner>.display-4 {
 
   font-size: 30px;
-  padding-top: 10px;
+
 
 }
 
-header.masthead>.overlay>.conteiner>.h1 {
+header.masthead>.overlay>.conteiner>.display-1 {
 
   color: rgba(0, 66, 150, 0);
+  padding-top: 10px;
 
 }
 
