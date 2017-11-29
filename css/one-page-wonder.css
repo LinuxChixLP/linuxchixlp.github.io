@@ -39,6 +39,14 @@ header.masthead>.overlay>.conteiner>.display-4{
 
 }
 
+
+header.masthead>.overlay>.conteiner>.h1.display-1.text{
+
+  font-size: 30px;
+
+
+}
+
 header.masthead>.overlay>.conteiner>.display-1 {
 
   color: rgba(0, 66, 150, 0);
